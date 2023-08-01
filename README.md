@@ -25,7 +25,7 @@ This is the template login details to use the bank functionality. The project do
 -Login: ma
 -Password: 4444
 
-##Technologies Used
+## Technologies Used
 -HTML
 -CSS
 -JavaScript
