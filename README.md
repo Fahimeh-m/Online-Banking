@@ -19,16 +19,16 @@ Login Details
 This is the template login details to use the bank functionality. The project does not include any backend and does not have an actual registration funcionality. Make sure to use usernames are lowercase!
 
 ## Account One
--Login: ad
--Password: 1111
-#Account Two
--Login: ma
--Password: 4444
+- Login: ad
+- Password: 1111
+# Account Two
+- Login: ma
+- Password: 4444
 
-## Technologies Used
--HTML
--CSS
--JavaScript
+##  Technologies Used
+- HTML
+- CSS
+- JavaScript
 
 
 <img width="905" alt="bankist12" src="https://github.com/Fahimeh-m/Online-Banking/assets/112492556/1bd4c28e-b3c2-4227-9d47-30fae5c0c539">
