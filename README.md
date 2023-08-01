@@ -36,3 +36,8 @@ Password: 4444
 <img width="941" alt="Bankist13" src="https://github.com/Fahimeh-m/Online-Banking/assets/112492556/268c6dcf-4fe4-450e-bfed-9963bc1fbfac">
 <img width="910" alt="Bankist14" src="https://github.com/Fahimeh-m/Online-Banking/assets/112492556/f4c69301-4793-42fb-9cf6-de506d51a5ca">
 <img width="911" alt="bankist15" src="https://github.com/Fahimeh-m/Online-Banking/assets/112492556/b34c6487-b7b2-4879-b572-3020884279a6">
+<img width="923" alt="bankist1" src="https://github.com/Fahimeh-m/Online-Banking/assets/112492556/09b63738-afee-4271-bbf4-3fc9cbf2f7ce">
+<img width="938" alt="Bankist2" src="https://github.com/Fahimeh-m/Online-Banking/assets/112492556/fb830bcf-ae84-438c-958a-a34ab269e636">
+<img width="943" alt="Bankist3" src="https://github.com/Fahimeh-m/Online-Banking/assets/112492556/76068957-e4d1-4ee5-9abc-ba3d7f5c160a">
+<img width="908" alt="Bankist4" src="https://github.com/Fahimeh-m/Online-Banking/assets/112492556/db054501-2e14-4ea1-83f4-4868f79fd6ae">
+<img width="923" alt="Bankist5png" src="https://github.com/Fahimeh-m/Online-Banking/assets/112492556/97ffe355-2e3f-46a2-b3cd-1fca1a26d900">
